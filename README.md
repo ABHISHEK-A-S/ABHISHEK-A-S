@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABHISHEK-A-S
 - 👀 I’m interested in SOFTWARE DEVOLOPMENT 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
