@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABHISHEK-A-S
-- 👀 I’m interested in SOFTWARE DEVOLOPMENT 
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning ML, Data science, Deep Learning and Neural Networks
+- 💞️ I’m looking to collaborate on projects on ML
 - 📫 How to reach me ...
 
 <!---
